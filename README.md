@@ -1,9 +1,6 @@
 
-### Hi there👋
+## Hellooooo. Who am i?👋
 
-
- - 🔭 I’m currently working as **Frontend Developer**
- - 🌱 I’m currently learning **JS** and **NodeJS**
  - 1,400 contributions in :two::zero::two::one:
 
  - ⚡ Could you look my projects?> 
